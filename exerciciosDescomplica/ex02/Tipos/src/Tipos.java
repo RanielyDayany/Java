@@ -1,5 +1,5 @@
 public class Tipos{
-    public static void main(String [] args){
+    /*  public static void main(String [] args){
     //8 bits,intervalo de -128 a 127
     byte oitoBits = 100;
 
@@ -33,7 +33,7 @@ public class Tipos{
     System.out.println(decimalPreciso);
     System.out.println(caractere);
     System.out.println(teste);
-    }
+    }*/
     
 
 }
