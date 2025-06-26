@@ -1,4 +1,4 @@
-package exerciciosDescomplica.ex07.instrucoes;
+package exerciciosDescomplica.ex07.io;
 
 public class InstrucoesControle {
      /*public static void main(String[] args){
