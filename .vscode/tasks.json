@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Compilar e Executar Somar.java",
+			"type": "shell",
+			"command": "javac estruturaDeDados\\vetoresEMatrizes\\Somar.java && java estruturaDeDados.vetoresEMatrizes.Somar",
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Compilar e Executar Somar.java",
+			"type": "shell",
+			"command": "javac estruturaDeDados\\vetoresEMatrizes\\Somar.java; java estruturaDeDados.vetoresEMatrizes.Somar",
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

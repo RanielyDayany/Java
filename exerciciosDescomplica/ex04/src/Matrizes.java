@@ -5,7 +5,7 @@ public class Matrizes{
             {4,5,6},
             {7,8,9}
         };
-        int[][] matrixTamFixo = new int[2][2];
+       // int[][] matrixTamFixo = new int[2][2];
         
         //mostrar na tela
         System.out.println("\n Valores da matriz:");
